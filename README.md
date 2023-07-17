@@ -1,2 +1,36 @@
 # metahouse
 MetaHouse Project
+
+![image](https://github.com/SoohoCoding/metahouse/assets/132865000/e11be54a-80c6-40af-a4cc-ea56ab4e335d)
+![image](https://github.com/SoohoCoding/metahouse/assets/132865000/0726b062-9978-45f7-ba7f-3b47c0f72642)
+![image](https://github.com/SoohoCoding/metahouse/assets/132865000/f14d3d4e-7ae5-4439-95e1-06b918cd87af)
+![image](https://github.com/SoohoCoding/metahouse/assets/132865000/342de719-74d6-4aa3-9f5e-634d300ba8b4)
+![image](https://github.com/SoohoCoding/metahouse/assets/132865000/24057709-18eb-42c6-a00b-7513e7e378d5)
+![image](https://github.com/SoohoCoding/metahouse/assets/132865000/5bb0a6f5-93ea-4ff6-99f5-eb88ac603e8e)
+![image](https://github.com/SoohoCoding/metahouse/assets/132865000/510f4845-b906-42bf-b83e-d918f525499d)
+![image](https://github.com/SoohoCoding/metahouse/assets/132865000/ef768841-48ae-4831-b665-bb2e608a3450)
+![image](https://github.com/SoohoCoding/metahouse/assets/132865000/51ca4e46-141f-4222-aea6-ce47e2966b81)
+![image](https://github.com/SoohoCoding/metahouse/assets/132865000/42ee7fe0-7ac2-4971-bad5-69ff6af53c2e)
+![image](https://github.com/SoohoCoding/metahouse/assets/132865000/8f8fd654-c817-4886-bef0-d4a80a663b90)
+![image](https://github.com/SoohoCoding/metahouse/assets/132865000/2fd90b1c-f4b0-4af7-a13e-078b827501b7)
+![image](https://github.com/SoohoCoding/metahouse/assets/132865000/c7eeb44a-be80-414e-b53c-438df837fa36)
+![image](https://github.com/SoohoCoding/metahouse/assets/132865000/0bdb4b25-61a0-487f-9a23-d275e573b62c)
+![image](https://github.com/SoohoCoding/metahouse/assets/132865000/93e27d96-5ff5-48c7-8822-8628259586e8)
+![image](https://github.com/SoohoCoding/metahouse/assets/132865000/485c894c-b740-40f8-855d-b2d45b5f2981)
+![image](https://github.com/SoohoCoding/metahouse/assets/132865000/8cc643f6-d926-4f01-bf52-bbf9ccf88b87)
+![image](https://github.com/SoohoCoding/metahouse/assets/132865000/c031bb0e-1912-4056-9be8-0f76e08ae9d9)
+![image](https://github.com/SoohoCoding/metahouse/assets/132865000/bc39802f-5401-422f-a9c9-6e96892a2c99)
+![image](https://github.com/SoohoCoding/metahouse/assets/132865000/6c712134-3175-4d68-ab2e-ac399b816346)
+![image](https://github.com/SoohoCoding/metahouse/assets/132865000/e9b9e695-6216-4d87-b76a-33b8cdfabf2f)
+![image](https://github.com/SoohoCoding/metahouse/assets/132865000/0ae57ca7-91e5-46e2-bb6e-72d8dc2f5b25)
+![image](https://github.com/SoohoCoding/metahouse/assets/132865000/5c65c0e3-f2cd-49bc-ab4d-a9b9e504c0cf)
+![image](https://github.com/SoohoCoding/metahouse/assets/132865000/a92dd80d-83ac-4b32-9949-ee96d8c8c91d)
+![image](https://github.com/SoohoCoding/metahouse/assets/132865000/85da0d17-4054-4776-b41f-ac2519208ad8)
+![image](https://github.com/SoohoCoding/metahouse/assets/132865000/03c04dc5-3c7b-468d-a4d9-509220c34186)
+![image](https://github.com/SoohoCoding/metahouse/assets/132865000/db57490a-4a28-4a95-983b-5fc5e86cca81)
+![image](https://github.com/SoohoCoding/metahouse/assets/132865000/386b3d27-2f1b-416a-920d-7c586fa3522c)
+![image](https://github.com/SoohoCoding/metahouse/assets/132865000/38c208ff-25b1-4239-a8da-01300e64ab29)
+![image](https://github.com/SoohoCoding/metahouse/assets/132865000/ff8b8131-68f7-4a46-835d-f4bf009f3947)
+
+
+
